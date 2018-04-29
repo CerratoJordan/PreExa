@@ -17,6 +17,7 @@ public class PreExamen {
      */
     public static void main(String[] args) {
         //Esta es un prueva con github
+        //hola esta es una pruva nada mas
          Scanner sc = new Scanner(System.in);
          
          String [] nombres= new String [5];
