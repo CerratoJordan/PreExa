@@ -16,7 +16,7 @@ public class PreExamen {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
- 
+        //Esta es un prueva con github
          Scanner sc = new Scanner(System.in);
          
          String [] nombres= new String [5];
